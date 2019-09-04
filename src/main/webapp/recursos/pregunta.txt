@@ -1,0 +1,3 @@
+1. diferenccias y similitudes entre clases abstractas e interfaces ¿cuándo se recomienda usar una sobre la otra?
+
+en una clase abstracta al implementarla solo se llama el método que tambien abstracto y en eun interfaz se titnen que llamar todos los métodos que se encuentran en esta.
